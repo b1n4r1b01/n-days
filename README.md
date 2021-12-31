@@ -9,3 +9,4 @@ A collection of POCs/writeups for iOS vulnerabilities discovered by me or non pu
 | [CVE-2021-30674](https://support.apple.com/en-us/HT212528)  | iOS 14.6   | Info Leak | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-30674/CVE-2021-30674.c) | :heavy_check_mark: | 
 | [CVE-2021-30807](https://support.apple.com/en-us/HT212623) | iOS 14.7.1 | LPE | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-30807/CVE-2021-30807.c) - [more](http://web.archive.org/web/20211031080037/https://twitter.com/b1n4r1b01/status/1419734027565617165) | :x: |
 | [File System](https://support.apple.com/en-us/HT212814) | iOS 15.0 | LPE? | [poc](https://github.com/b1n4r1b01/n-days/blob/main/lifs_poc.c) | :heavy_check_mark: |
+| [CVE-2021-30983](https://support.apple.com/en-us/HT212976)| iOS 15.2 | LPE | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_15.1.c) | :x: |
