@@ -11,7 +11,8 @@ A collection of POCs/writeups for iOS vulnerabilities discovered by me or non pu
 | [CVE-2021-30807](https://support.apple.com/en-us/HT212623) | iOS 14.7.1 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-30807/CVE-2021-30807.c) - [more](http://web.archive.org/web/20211031080037/https://twitter.com/b1n4r1b01/status/1419734027565617165) | :x: | In The Wild Exploit |
 |[CVE-2021-30837](https://support.apple.com/en-us/HT212814)| iOS 15.0 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-30837.c) | :heavy_check_mark: | - |
 | [File System](https://support.apple.com/en-us/HT212814) | iOS 15.0 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/lifs_poc.c) | :heavy_check_mark: | - |
-| [CVE-2021-30983](https://support.apple.com/en-us/HT212976)| iOS 15.2 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_15.1.c) | :x: | Tianfu Cup 2021 LPE|
-|[CVE-2022-22587](https://support.apple.com/en-us/HT213053)| iOS 15.3 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_oobr_15.2.c) | :heavy_check_mark: | - |
+| [CVE-2021-30983](https://support.apple.com/en-us/HT212976)| iOS 15.2 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_15.1.c) | :x: | In The Wild Exploit|
+|[CVE-2022-22587](https://support.apple.com/en-us/HT213053)| iOS 15.3 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_oobr_15.2.c) | :heavy_check_mark: | In The Wild Exploit |
 | [CVE-2022-22672](https://support.apple.com/en-us/HT213182) | iOS 15.4 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/AFU.c) | :heavy_check_mark: | -  |
 | [CVE-2022-22675](https://support.apple.com/en-us/HT213219) | iOS 15.4.1 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/AVD-15.4.1.mp4) | :x: | ITW diff with [@littlelailo](https://twitter.com/littlelailo)|
+| [CVE-2025-43300](https://support.apple.com/en-us/124925) | iOS 18.6.2 | [info](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md) | :x: | In The Wild Exploit |
