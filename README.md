@@ -4,7 +4,7 @@ A collection of POCs & writeups for iOS vulnerabilities either discovered by me,
 
 |	CVE					|	Patched In			|		Link	 |		Reported by me	|	Exploited ITW	|	Description		|
 |:---------------------:|-----------------------|:--------------:|:--------------------:|:-----------------:|:-----------------:|
-| [CVE-2021-1757](https://support.apple.com/en-us/HT212146) | iOS 14.4 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-1757/CVE-2021-1757-PoC.c) - [info](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-1757/CVE-2021-1757-Writeup.md) | :heavy_multiplication_x:| :heavy_multiplication_x: | Kernel PC control |
+| [CVE-2021-1757](https://support.apple.com/en-us/HT212146) | iOS 14.4 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-1757/CVE-2021-1757-PoC.c) - [info](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-1757/CVE-2021-1757-Writeup.md) | :heavy_multiplication_x:| :heavy_multiplication_x: | Kernel pc control |
 | [CVE-2021-1812](https://support.apple.com/en-us/HT212317) | iOS 14.5 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-1812.c) | :white_check_mark: | :heavy_multiplication_x: | Kernel oob r/w? |
 | - | iOS 14.5 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/AppleH10CamIn-OOBw/AppleH10CamIn-OOBw-PoC.c) - [info](https://github.com/b1n4r1b01/n-days/blob/main/AppleH10CamIn-OOBw/AppleH10CamIn-OOBw-Writeup.md) | :white_check_mark: | :heavy_multiplication_x: | Kernel oob write |
 | [CVE-2021-30674](https://support.apple.com/en-us/HT212528)  | iOS 14.6 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2021-30674/CVE-2021-30674.c) | :white_check_mark: | :heavy_multiplication_x: | Kernel oob read |
