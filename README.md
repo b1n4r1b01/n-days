@@ -15,6 +15,7 @@ A collection of POCs & writeups for iOS vulnerabilities either discovered by me,
 | [CVE-2022-22587](https://support.apple.com/en-us/HT213053)| iOS 15.3 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/IOMFB_oobr_15.2.c) | :white_check_mark: | :white_check_mark: | Kernel oob write |
 | [CVE-2022-22672](https://support.apple.com/en-us/HT213182) | iOS 15.4 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/AFU.c) | :white_check_mark: |:heavy_multiplication_x: | Kernel oob write |
 | [CVE-2022-22675](https://support.apple.com/en-us/HT213219) | iOS 15.4.1 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/AVD-15.4.1.mp4) - [more](https://x.com/littlelailo/status/1521173087592628226) | :heavy_multiplication_x: | :white_check_mark: | Kernel oob write |
+| [CVE-2025-24085](https://support.apple.com/en-us/122066) | iOS 18.3 | [poc](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-24085/CVE-2025-24085.c) - [info](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-24085/CVE-2025-24085.md) | :heavy_multiplication_x: |:white_check_mark: | Userland UAF |
 | [CVE-2025-43300](https://support.apple.com/en-us/124925) | iOS 18.6.2 | [info](https://github.com/b1n4r1b01/n-days/blob/main/CVE-2025-43300.md) | :heavy_multiplication_x: | :white_check_mark: | Userland oob write|
 
 
